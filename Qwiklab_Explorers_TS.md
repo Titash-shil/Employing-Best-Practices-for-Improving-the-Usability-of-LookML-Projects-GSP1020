@@ -348,8 +348,9 @@ explore: events {
 }
 ```
 
-## Congratulations, you completed the lab sucessfully..!! 💯 ☑️ 😄
+## Congratulations, you completed the lab sucessfully..!! 💯 ☑️ 😃
 ## Thanks for visiting :)
 ## Explore >>> Learn >>> Grow 
-## Don't forget to subscribe to ![Qwiklab_Explorers_TS](https://youtube.com/@titashshil?si=g0znCfbVs5zRle1D)
+## Don't forget to subscribe to [Qwiklab_Explorers_TS](https://youtube.com/@titashshil?si=g0znCfbVs5zRle1D) 😄
+
 
