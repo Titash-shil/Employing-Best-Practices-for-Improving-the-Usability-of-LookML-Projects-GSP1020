@@ -348,6 +348,7 @@ explore: events {
 }
 ```
 
-## Congratulations, you're all done with the lab 😄
-## Thanks for watching :)
+## Congratulations, you completed the lab sucessfully..!! 💯 ☑️ 😄
+## Thanks for visiting :)
+## Explore >>> Learn >>> Grow 
 
