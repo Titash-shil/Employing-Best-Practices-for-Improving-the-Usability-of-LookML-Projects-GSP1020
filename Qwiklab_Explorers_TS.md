@@ -5,7 +5,7 @@
 ## First turn on the Development Mode
 
 ![Qwiklab_Explorers_TS](https://github.com/Titash-shil/Employing-Best-Practices-for-Improving-the-Usability-of-LookML-Projects-GSP1020/assets/155870248/5969577f-4e93-4bca-9ebd-62dae21e89b8)
-)
+
 
 ## Go to order_items.view file
 ```
